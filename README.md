@@ -5,11 +5,13 @@
 [![License](https://img.shields.io/cocoapods/l/GrowingImageView.svg?style=flat)](http://cocoapods.org/pods/GrowingImageView)
 [![Platform](https://img.shields.io/cocoapods/p/GrowingImageView.svg?style=flat)](http://cocoapods.org/pods/GrowingImageView)
 
+## Intro
+
+The GrowingImageView is used as a header to scrolling content which will grow once you start scrolling into a negative y `contentOffset`. Optionally, you can use the category method provided for any `UIImageView`.
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
