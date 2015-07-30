@@ -1,0 +1,14 @@
+PODS:
+  - GrowingImageView (0.1.0)
+
+DEPENDENCIES:
+  - GrowingImageView (from `../`)
+
+EXTERNAL SOURCES:
+  GrowingImageView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GrowingImageView: 6941f71605ca463b1d401ff0c09c6253e258d32b
+
+COCOAPODS: 0.38.2
