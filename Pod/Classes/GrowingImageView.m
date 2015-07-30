@@ -35,7 +35,10 @@
 {
     if(yOffset >= 0.0)
     {
-        [self.layer setTransform:CATransform3DIdentity];
+        if(!CATransform3DEqualToTransform(self.layer.transform, CATransform3DIdentity))
+        {
+            [self.layer setTransform:CATransform3DIdentity];
+        }
     }
     else
     {
