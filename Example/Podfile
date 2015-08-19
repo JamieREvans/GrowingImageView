@@ -7,6 +7,4 @@ end
 
 target 'GrowingImageView_Tests', :exclusive => true do
   pod "GrowingImageView", :path => "../"
-
-  
 end

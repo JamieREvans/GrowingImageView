@@ -1,5 +1,5 @@
 PODS:
-  - GrowingImageView (0.1.0)
+  - GrowingImageView (1.0.0)
 
 DEPENDENCIES:
   - GrowingImageView (from `../`)
@@ -9,6 +9,6 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  GrowingImageView: 6941f71605ca463b1d401ff0c09c6253e258d32b
+  GrowingImageView: 13841308052836fa9590b7243833ce9a20a6e8c4
 
 COCOAPODS: 0.38.2
