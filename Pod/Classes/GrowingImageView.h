@@ -32,7 +32,7 @@ typedef NS_ENUM(NSUInteger, GrowthType)
 
 @end
 
-@interface UIImageView (Growing)
+@interface UIView (Growing)
 
 /**
  *
