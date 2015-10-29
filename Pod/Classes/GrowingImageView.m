@@ -24,7 +24,7 @@
 
 @end
 
-@implementation UIImageView (Growing)
+@implementation UIView (Growing)
 
 - (CGFloat)horizontalTranslationForScale:(CGFloat)scale
 {
